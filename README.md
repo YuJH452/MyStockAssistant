@@ -11,7 +11,9 @@
 (프로세스 실행 후 생성되는 파일)
  재무제표 : (종목코드)_연월일_balancesheet.xlsx 
  손익계산서 : (종목코드)_연월일_income.xlsx
+ UiPath App 앱 연동 동영상 입니다.
 ![개별보고서다운](https://user-images.githubusercontent.com/58212594/111160029-0c909280-85dd-11eb-8ef8-8a483f1a2018.gif)
+엑셀 결과 샘플
 ![밸런스 인컴](https://user-images.githubusercontent.com/58212594/111162731-c852c180-85df-11eb-9089-f07aac324a06.gif)
 #### 2. 개별 종목 분석 - 엑셀 필요
 메인기능1 입니다.
@@ -34,8 +36,9 @@ str_conclusion	상기 3개 인수의 내용에 따라 변동	(매도 하세요/�
 
 (프로세스 실행 후 생성되는 파일)
 Analysis_(종목코드)_연월일.xlsx
-
+UiPath App 앱 연동 동영상 입니다.
 ![개별종목분석](https://user-images.githubusercontent.com/58212594/111160145-2b8f2480-85dd-11eb-9753-0488ba8a8c79.gif)
+엑셀 결과 샘플
 ![개별종목분석 에셀](https://user-images.githubusercontent.com/58212594/111162711-c2f57700-85df-11eb-8ed1-6c6ed8f40789.gif)
 #### 3. 구성종목 일괄 분석 - 엑셀 필요
 메인기능2 입니다.
@@ -56,8 +59,9 @@ Analysis_(종목코드)_연월일.xlsx
 
 (프로세스 실행 후 생성되는 파일)
 Analysis_(종목코드)_연월일.xlsx
-
+UiPath App 앱 연동 동영상 입니다.
 ![일괄분석](https://user-images.githubusercontent.com/58212594/111160290-4bbee380-85dd-11eb-9928-d01e1a5634c1.gif)
+엑셀 결과 샘플
 ![일괄분석 엑셀](https://user-images.githubusercontent.com/58212594/111162749-cbe64880-85df-11eb-9790-d361cae955fb.gif)
 #### 4. 환율 끌어오기
 investing.com의 환율 위젯에서 환율정보 끌어올 뿐입니다. 
@@ -65,9 +69,7 @@ investing.com의 환율 위젯에서 환율정보 끌어올 뿐입니다.
 	타입: 	DataTable
 	인수명:	Dt_hwan
 
-
-각 프로세스에서 산출되는 엑셀파일이 어떤지 예시를 보고싶은 경우에는 엑셀 결과 샘플 폴더에서 확인하세요.
-UiPath App과 연동 시켰을 경우에는 어떤식으로 활용할 수 있는지 예시를 보고싶은 경우에는 영상자료 폴더에서 동영상을 확인하세요
+UiPath App 앱 연동 동영상 입니다.
 ![환율업데이트](https://user-images.githubusercontent.com/58212594/111160277-495c8980-85dd-11eb-9d53-5aa5f75d9d76.gif)
 
 
