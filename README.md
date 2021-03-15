@@ -13,7 +13,7 @@
  손익계산서 : (종목코드)_연월일_income.xlsx
 
 
-UiPath App 앱 연동 동영상 입니다.
+UiPath App 연동 동영상 입니다.
 ![개별보고서다운](https://user-images.githubusercontent.com/58212594/111160029-0c909280-85dd-11eb-8ef8-8a483f1a2018.gif)
 
 
@@ -42,7 +42,7 @@ str_conclusion	상기 3개 인수의 내용에 따라 변동	(매도 하세요/�
 (프로세스 실행 후 생성되는 파일)
 Analysis_(종목코드)_연월일.xlsx
 
-UiPath App 앱 연동 동영상 입니다.
+UiPath App 연동 동영상 입니다.
 ![개별종목분석](https://user-images.githubusercontent.com/58212594/111160145-2b8f2480-85dd-11eb-9753-0488ba8a8c79.gif)
 
 엑셀 결과 샘플
@@ -68,7 +68,7 @@ UiPath App 앱 연동 동영상 입니다.
 (프로세스 실행 후 생성되는 파일)
 Analysis_(종목코드)_연월일.xlsx
 
-UiPath App 앱 연동 동영상 입니다.
+UiPath App 연동 동영상 입니다.
 ![일괄분석](https://user-images.githubusercontent.com/58212594/111160290-4bbee380-85dd-11eb-9928-d01e1a5634c1.gif)
 
 엑셀 결과 샘플
