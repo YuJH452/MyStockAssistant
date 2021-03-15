@@ -46,7 +46,7 @@ UiPath App 연동 동영상 입니다.
 ![개별종목분석](https://user-images.githubusercontent.com/58212594/111160145-2b8f2480-85dd-11eb-9753-0488ba8a8c79.gif)
 
 엑셀 결과 샘플
-![개별종목분석 에셀](https://user-images.githubusercontent.com/58212594/111162711-c2f57700-85df-11eb-8ed1-6c6ed8f40789.gif)
+![개별종목분석 엑셀](https://user-images.githubusercontent.com/58212594/111175438-c3940a80-85eb-11eb-905a-f0fe2cfcb0d8.gif)
 
 #### 3. 구성종목 일괄 분석 - 엑셀 필요
 메인기능2 입니다.
