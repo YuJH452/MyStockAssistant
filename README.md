@@ -11,7 +11,7 @@
 (프로세스 실행 후 생성되는 파일)
  재무제표 : (종목코드)_연월일_balancesheet.xlsx 
  손익계산서 : (종목코드)_연월일_income.xlsx
-
+![개별보고서다운](https://user-images.githubusercontent.com/58212594/111160029-0c909280-85dd-11eb-8ef8-8a483f1a2018.gif)
 
 #### 2. 개별 종목 분석 - 엑셀 필요
 메인기능1 입니다.
